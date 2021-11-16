@@ -1,2 +1,2 @@
 - 3rd year CS student at KAIST
-- graduation ~June 2023
+- graduation ~July 2023
