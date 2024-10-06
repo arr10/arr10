@@ -1,6 +1,5 @@
 # About me
-- Last year CS student at KAIST
-- graduation ~February 2024
+- Graduate School of Data Science student at KAIST
 # Projects:
 - [Lessonger](https://lessonger.com/)
 - [Attender](https://github.com/NurlykhanKairly/attender)
